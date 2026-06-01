@@ -4,6 +4,7 @@ public record Jogo(
         Integer id,
         String nome,
         String produtora,
-        String publicadora) {
+        String publicadora,
+        String dataLancamento) {
 
 }
